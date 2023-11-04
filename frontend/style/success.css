@@ -1,0 +1,18 @@
+.success{
+    background-color: #e3dddc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 690px;
+    width: 100%;
+    color: rgb(129, 126, 126);
+}
+.main{
+    border:3px solid black;
+    
+    border-radius: 10px;
+    font-size: 70px;
+    height: 100px;
+    width: 900px;
+    background-image: linear-gradient(to bottom, #e3dddc, #d7d3d3, #cbc9ca, #c0bfc0, #b5b5b5);}
+  

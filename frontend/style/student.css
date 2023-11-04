@@ -1,0 +1,12 @@
+body{
+  width:100%;
+}
+.card{
+  width: max-content;
+}
+.card:hover{
+  scale: 1.025;
+}
+.conatiner{
+  width:100%;
+}
